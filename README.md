@@ -72,7 +72,7 @@ The analysis uses a publicly available dataset from Kaggle containing:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## 👥 Authors
 - Nhlanhla Mokoena - https://github.com/Murci20965
