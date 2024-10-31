@@ -68,22 +68,6 @@ The analysis uses a publicly available dataset from Kaggle containing:
 - Matplotlib/Seaborn for visualization
 - Jupyter Notebook for analysis environment
 
-### Project Structure
-
-loan-default-analysis/
-│
-├── data/
-│ ├── application_data.csv
-│ └── previous_application.csv
-│
-├── notebooks/
-│ └── Loan_Default_Analysis.ipynb
-│
-├── outputs/
-│ └── missing_info.xlsx
-│
-└── README.md
-
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
