@@ -83,6 +83,6 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 - nhlanhla18mokoena@gmail.com
-- https://github.com/Murci20965/Loan_Data_Analysis.
+- https://github.com/Murci20965/Loan_Default_Analysis.
 
 
